@@ -149,4 +149,4 @@ gcc student_record_system.c -o student_record_system
 
 ---
 
-This documentation covers all major aspects of the **Student Record System**.
+This documentation covers all major aspects of the **Student Record System** Let me know if you need further clarifications! mailto:iamjerrydev@gmail.com 🚀.
