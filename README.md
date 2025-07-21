@@ -1,4 +1,4 @@
-# **Student Record System - Documentation**  
+# **Student Record System**  
 
 ## **1. Overview**  
 This **Student Record System** is a C program that allows users to manage student records, including:  
